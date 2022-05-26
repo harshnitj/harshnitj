@@ -1,24 +1,15 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Harsh Shukla</h1>
 <h3 align="center">I'm an Android Developer and Student from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhadeepzilong&label=Profile%20views&color=0e75b6&style=flat" alt="subhadeepzilong" /> </p>
-
-
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/subhadeepzilong?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsubhadeepzilong&screen_name=subhadeepzilong)
-
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineering+Student;Aspiring+Developer;Always+learning+new+things&center=true&width=500&height=50"></a>
-
-<p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
+[![Twitter Follow](https://img.shields.io/twitter/follow/harshnitj32?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2harshnitj32&screen_name=harshnitj32)
 
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="left">
-<a href="https://twitter.com/subhadeepzilong" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/twitter.svg" alt="subhadeepzilong" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/subhadeep-chakraborty-b341a8191" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/linked-in-alt.svg" alt="subhadeep-chakraborty-b341a8191" height="30" width="40" /></a>
-<a href="https://fb.com/subhadeep.chakraborty.555" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/facebook.svg" alt="subhadeep.chakraborty.555" height="30" width="40" /></a>
-<a href="https://instagram.com/subhadeepzilong" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/instagram.svg" alt="subhadeepzilong" height="30" width="40" /></a>
+<a href="https://twitter.com/harshnitj32" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/twitter.svg" alt="subhadeepzilong" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harshnitj" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/linked-in-alt.svg" alt="subhadeep-chakraborty-b341a8191" height="30" width="40" /></a>
+
 <a href="https://www.hackerrank.com/subhadeepchakra3" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/hackerrank.svg" alt="subhadeepchakra3" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/subhadeepchakraborty555" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/geeks-for-geeks.svg" alt="subhadeepchakraborty555" height="30" width="40" /></a>
 <a href="https://leetcode.com/subhadeepchakraborty555/" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/leet-code.svg" alt="subhadeepchakraborty555" height="30" width="40" /></a>
